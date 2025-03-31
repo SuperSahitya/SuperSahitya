@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sahitya Kumar Choubey</h1>
-<h3 align="center">Passionate Full Stack Web Developer</h3>
+<h3 align="center">Passionate Full Stack Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=SuperSahitya&icon=2&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [bookworm](https://github.com/SuperSahitya/bookworm-but-better)
-
-- 👯 I’m looking to collaborate on [create-default-app](https://github.com/accelerateOSS/create-default-app)
+- 🔭 I’m currently working on Preflight, an agentic AI assistant.
 
 - 👨‍💻 All of my projects are available at [https://supersahitya.github.io/](https://supersahitya.github.io/)
 
-- 💬 Ask me about **Next.js, Typescript, MERN**
+- 💬 Ask me about **Next.js, Typescript, MERN, Langchain, NLP, ML, Agentic AI, Python**
 
 - 📫 You can reach me via **sahityakumarchoubey@gmail.com**
 
